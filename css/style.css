@@ -1,4 +1,30 @@
-body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  background-color: aquamarine;
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 96px;
+  line-height: 130px;
+}
+
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+}
+
+.hero p {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 54px;
+  margin: 0;
+  color: #272142;
+}
+
+.hero h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+}
+
+.btn-branding {
+  border-radius: 4px;
+  background: #6c63ff;
+  color: white;
 }
